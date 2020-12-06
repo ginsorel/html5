@@ -1,0 +1,30 @@
+[33mcommit e5a7a08b44810fca8ce4c69c3328ee12e14e64a7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 3192b9b 0595c4d
+Author: Ginson Orellana <ginsorel@gmail.com>
+Date:   Mon Nov 30 22:30:05 2020 -0500
+
+    sE HIZO EL MERGE DE CABECERA
+
+[33mcommit 0595c4dbc29e8a16b3834dcd828f9578c6c5e8b9[m[33m ([m[1;32mcabecera[m[33m)[m
+Author: Ginson Orellana <ginsorel@gmail.com>
+Date:   Mon Nov 30 22:10:00 2020 -0500
+
+    se añade un porcentaje
+
+[33mcommit 3192b9bc63b4b68317b84c129794900462290259[m
+Author: Ginson Orellana <ginsorel@gmail.com>
+Date:   Mon Nov 30 22:08:06 2020 -0500
+
+    cambios en panel
+
+[33mcommit 615571a6f6ba75d6201d34f5ba041c1a3fbe0b17[m
+Author: Ginson Orellana <ginsorel@gmail.com>
+Date:   Mon Nov 30 22:06:31 2020 -0500
+
+    cambios en panel
+
+[33mcommit 505bbd58648db3a1e08c0780973dcb411e8521fc[m
+Author: Ginson Orellana <ginsorel@gmail.com>
+Date:   Mon Nov 30 22:00:12 2020 -0500
+
+    se sube la primera version del curso git
